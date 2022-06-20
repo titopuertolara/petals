@@ -1,3 +1,6 @@
+
+tracking a detecting diseases on some petals
+
 pip3 install opencv-contrib-python
 
 pip3 install statistics
